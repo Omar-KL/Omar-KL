@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Omar-KL&label=Profile%20views&color=0e75b6&style=flat" alt="Omar-KL" /> </p>
- 🌱 I’m currently learning: Bash Scripting, MySQL and Bug Bounty.
+ 🌱 I’m currently learning: Bash Scripting, Python and Bug Bounty.
 
  ⚡ Fun fact: **a hacker is a programmer, but a programmer may not be a hacker.**
 
